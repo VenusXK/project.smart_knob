@@ -24,4 +24,4 @@
 
 ### 学习资料
 
-- [lerning_doc/motor.md](lerning_doc/motor.md)
+- [learning_doc/motor.md](learning_doc/motor.md)
