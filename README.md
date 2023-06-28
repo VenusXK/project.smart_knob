@@ -22,28 +22,6 @@
 - Versatile back plate for mounting - use either 4x screws, or 2x 3M medium Command strips (with cutouts for accessing removal tabs after installation)
 - Front cover snaps on for easy access to the PCB
 
-### 电机
+### 学习资料
 
-参考
-- [瑞萨电子 > 支持和设计 > arrow_right > Engineer School arrow_right > 何谓BLDC电机](https://www.renesas.cn/cn/zh/support/engineer-school/brushless-dc-motor-01-overview?__utma=65695400.793764067.1623331144.1623331591.1623331591.1&__utmb=65695400.0.10.1623331591&__utmc=65695400&__utmx=-&__utmz=65695400.1623331591.1.1.utmcsr=(direct)%7Cutmccn=(direct)%7Cutmcmd=(none)&__utmv=-&__utmk=188466671?__utma=65695400.793764067.1623331144.1623331591.1623331591.1&__utmb=65695400.0.10.1623331591&__utmc=65695400&__utmx=-&__utmz=65695400.1623331591.1.1.utmcsr=(direct)%7Cutmccn=(direct)%7Cutmcmd=(none)&__utmv=-&__utmk=188466671)
-- [瑞萨电子 > 支持和设计 > arrow_right > Engineer School arrow_right > BLDC电机的控制](https://www.renesas.cn/cn/zh/support/engineer-school/brushless-dc-motor-02-inverter-pmw)
-
-电机分类
-
-![./asset/motor_list.jpg](./asset/motor_list.jpg)
-
-有刷DC电机
-
-![./asset/dc_motor.gif](./asset/dc_motor.gif)
-
-BLDC电机
-
-![./asset/bldc_motor.gif](./asset/bldc_motor.gif)
-
-BLDC电机控制
-
-![./asset/bldc_motor_control.gif](./asset/bldc_motor_control.gif)
-
-正弦波控制
-
-![./asset/bldc_motor_sin.gif](./asset/bldc_motor_sin.gif)
+- [lerning_doc/motor.md](lerning_doc/motor.md)
