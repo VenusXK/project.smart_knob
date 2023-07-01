@@ -1,27 +1,34 @@
 # 系统架构综合实习作业项目
 
+### time table
+
+![./README_image/time_table.png](./README_image/time_table.png)
+
 ### 项目参考
 
 - github: https://github.com/scottbez1/smartknob
 - demo video: https://www.youtube.com/watch?v=ip641WmY4pA
-- motor
-  - shop: https://www.sparkfun.com/products/20441
-  - document: https://cdn.sparkfun.com/assets/e/b/2/8/3/OT-EM3215_DC_Brushless_Gimbal_Motor_3_Phase_Datasheet.pdf
-  - discuss: https://github.com/scottbez1/smartknob/issues/16#issuecomment-1094482805%5D
+- 讲解视频：https://www.youtube.com/watch?v=Q76dMggUH1M&t=521s
 
 
 ### 器材
 
-- 240x240 round LCD ("GC9A01"), protected by 39.5mm watch glass on rotor
-- BLDC gimbal motor, with a hollow shaft for mechanically & electrically connecting the LCD
-- Powered by ESP32-PICO-V3-02 (Lilygo TMicro32 Plus module)
-- PCB flexure and strain gauges used for press detection (haptic feedback provided via the motor)
-- 8 side-firing RGB LEDs (SK6812-SIDE-A) illuminate ring around the knob
-- USB-C (2.0) connector for 5V power and serial data/programming (CH340)
-- VEML7700 ambient light sensor for automatic backlight & LED intensity adjustment
-- Versatile back plate for mounting - use either 4x screws, or 2x 3M medium Command strips (with cutouts for accessing removal tabs after installation)
-- Front cover snaps on for easy access to the PCB
+- [x] 240x240 round LCD ("GC9A01")
+- [x] 无感无刷电机 BLDC
+- [ ] 霍尔感应器 MT6701
+- [ ] 主控 ESP32
+- [x] 压力传感器 HX711 
+- [x] 应变片 BF350-3AA * 2
+- [x] LED灯 SK6812-SIDE-A * 8
+- [x] USB-C(2.0)接口
+- [ ] 串口转换器 CH340
+- [x] 环境亮度传感器 VEML7700
+- [ ] 稳压器 AP2114HA-3.3
+- [ ] 背板？Versatile back plate for mounting - use either 4x screws, or 2x 3M medium Command strips (with cutouts for accessing removal tabs after installation)
+- [ ] 前盖？Front cover snaps on for easy access to the PCB
 
-### 学习资料
+### 资料
 
-- [learning_doc/motor.md](learning_doc/motor.md)
+- 学习参考 [doc/reference/reference.md](doc/reference/reference.md)
+- 学习日志 [doc/log/log.md](doc/log/log.md)
+
