@@ -1,0 +1,26 @@
+Added Component: Designator=U7(2.54)
+Add component (AddParameter): Name = "Design Item ID"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "IC.SchLib"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin TMC1-2
+Add Pin To Net: Unknown Pin: Pin TMC1-3
+Add Pin To Net: Unknown Pin: Pin TMC1-4
+Add Pin To Net: Unknown Pin: Pin TMC1-5
+Add Pin To Net: Unknown Pin: Pin TMC1-6
+Add Pin To Net: Unknown Pin: Pin TMC1-7
+Add Pin To Net: Unknown Pin: Pin TMC1-8
+Add Pin To Net: Unknown Pin: Pin TMC1-9
+Add Pin To Net: Unknown Pin: Pin TMC1-10
+Add Pin To Net: Unknown Pin: Pin TMC1-11
+Add Pin To Net: Unknown Pin: Pin TMC1-12
+Add Pin To Net: Unknown Pin: Pin TMC1-13
+Add Pin To Net: Unknown Pin: Pin TMC1-14
+Add Pin To Net: Unknown Pin: Pin TMC1-16
+Add Pin To Net: Unknown Pin: Pin TMC1-18
+Add Pin To Net: Unknown Pin: Pin TMC1-20
+Add Pin To Net: Unknown Pin: Pin TMC1-PAD
+Added Pin To Net: NetName=+3.3V Pin=U7-1
+Added Pin To Net: NetName=USB-TX Pin=U7-2
+Added Pin To Net: NetName=USB-RX Pin=U7-3
+Added Pin To Net: NetName=STRAIN_E- Pin=U7-4
+Add Class Member: Failed to add class member : Component TMC1 U2
+Added Member To Class: ClassName=Schematic Member=Component U7 USB

@@ -1,0 +1,129 @@
+Change Component Footprint: Designator=LED1 Old Footprint=封装.SK6812SIDE-A New Footprint=FZ-SK6812SIDE-A
+Change Component Footprint: Designator=LED2 Old Footprint=封装.SK6812SIDE-A New Footprint=FZ-SK6812SIDE-A
+Change Component Footprint: Designator=LED3 Old Footprint=封装.SK6812SIDE-A New Footprint=FZ-SK6812SIDE-A
+Change Component Footprint: Designator=LED4 Old Footprint=封装.SK6812SIDE-A New Footprint=FZ-SK6812SIDE-A
+Change Component Footprint: Designator=LED5 Old Footprint=封装.SK6812SIDE-A New Footprint=FZ-SK6812SIDE-A
+Change Component Footprint: Designator=LED6 Old Footprint=封装.SK6812SIDE-A New Footprint=FZ-SK6812SIDE-A
+Change Component Footprint: Designator=LED7 Old Footprint=封装.SK6812SIDE-A New Footprint=FZ-SK6812SIDE-A
+Change Managed Component Library Link : Designator=LED1 Old VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 New VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 Old ItemGUID=EB3E8497-774F-41CC-AEDC-D549A064C93B New ItemGUID=47AC0BDB-811D-423C-AE53-A671DCADD93A Old RevisionGUID=55156633-628B-4D8D-8736-33D1327FB5E1 New RevisionGUID=EFDB742C-BFF2-4EF9-B002-8FD38AC9FE29
+Change Managed Component Library Link : Designator=LED2 Old VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 New VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 Old ItemGUID=EB3E8497-774F-41CC-AEDC-D549A064C93B New ItemGUID=47AC0BDB-811D-423C-AE53-A671DCADD93A Old RevisionGUID=55156633-628B-4D8D-8736-33D1327FB5E1 New RevisionGUID=EFDB742C-BFF2-4EF9-B002-8FD38AC9FE29
+Change Managed Component Library Link : Designator=LED3 Old VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 New VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 Old ItemGUID=EB3E8497-774F-41CC-AEDC-D549A064C93B New ItemGUID=47AC0BDB-811D-423C-AE53-A671DCADD93A Old RevisionGUID=55156633-628B-4D8D-8736-33D1327FB5E1 New RevisionGUID=EFDB742C-BFF2-4EF9-B002-8FD38AC9FE29
+Change Managed Component Library Link : Designator=LED4 Old VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 New VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 Old ItemGUID=EB3E8497-774F-41CC-AEDC-D549A064C93B New ItemGUID=47AC0BDB-811D-423C-AE53-A671DCADD93A Old RevisionGUID=55156633-628B-4D8D-8736-33D1327FB5E1 New RevisionGUID=EFDB742C-BFF2-4EF9-B002-8FD38AC9FE29
+Change Managed Component Library Link : Designator=LED5 Old VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 New VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 Old ItemGUID=EB3E8497-774F-41CC-AEDC-D549A064C93B New ItemGUID=47AC0BDB-811D-423C-AE53-A671DCADD93A Old RevisionGUID=55156633-628B-4D8D-8736-33D1327FB5E1 New RevisionGUID=EFDB742C-BFF2-4EF9-B002-8FD38AC9FE29
+Change Managed Component Library Link : Designator=LED6 Old VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 New VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 Old ItemGUID=EB3E8497-774F-41CC-AEDC-D549A064C93B New ItemGUID=47AC0BDB-811D-423C-AE53-A671DCADD93A Old RevisionGUID=55156633-628B-4D8D-8736-33D1327FB5E1 New RevisionGUID=EFDB742C-BFF2-4EF9-B002-8FD38AC9FE29
+Change Managed Component Library Link : Designator=LED7 Old VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 New VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 Old ItemGUID=EB3E8497-774F-41CC-AEDC-D549A064C93B New ItemGUID=47AC0BDB-811D-423C-AE53-A671DCADD93A Old RevisionGUID=55156633-628B-4D8D-8736-33D1327FB5E1 New RevisionGUID=EFDB742C-BFF2-4EF9-B002-8FD38AC9FE29
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Pin To Net: Unknown Pin: Pin C0-1
+Add Pin To Net: Unknown Pin: Pin C0-2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin Cin-1
+Add Pin To Net: Unknown Pin: Pin Cin-2
+Add Pin To Net: Unknown Pin: Pin Cout-1
+Add Pin To Net: Unknown Pin: Pin Cout-2
+Added Pin To Net: NetName=LED_DATA_5V Pin=LED1-1
+Added Pin To Net: NetName=+5 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_3 Pin=LED1-3
+Added Pin To Net: NetName=STRAIN_E- Pin=LED1-4
+Added Pin To Net: NetName=NetLED1_3 Pin=LED2-1
+Added Pin To Net: NetName=+5 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_3 Pin=LED2-3
+Added Pin To Net: NetName=STRAIN_E- Pin=LED2-4
+Added Pin To Net: NetName=NetLED2_3 Pin=LED3-1
+Added Pin To Net: NetName=+5 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_3 Pin=LED3-3
+Added Pin To Net: NetName=STRAIN_E- Pin=LED3-4
+Added Pin To Net: NetName=NetLED3_3 Pin=LED4-1
+Added Pin To Net: NetName=+5 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_3 Pin=LED4-3
+Added Pin To Net: NetName=STRAIN_E- Pin=LED4-4
+Added Pin To Net: NetName=NetLED4_3 Pin=LED5-1
+Added Pin To Net: NetName=+5 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_3 Pin=LED5-3
+Added Pin To Net: NetName=STRAIN_E- Pin=LED5-4
+Added Pin To Net: NetName=NetLED5_3 Pin=LED6-1
+Added Pin To Net: NetName=+5 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_3 Pin=LED6-3
+Added Pin To Net: NetName=STRAIN_E- Pin=LED6-4
+Added Pin To Net: NetName=NetLED6_3 Pin=LED7-1
+Added Pin To Net: NetName=+5 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_3 Pin=LED7-3
+Added Pin To Net: NetName=STRAIN_E- Pin=LED7-4
+Add Pin To Net: Unknown Pin: Pin TMC1-2
+Add Pin To Net: Unknown Pin: Pin TMC1-3
+Add Pin To Net: Unknown Pin: Pin TMC1-4
+Add Pin To Net: Unknown Pin: Pin TMC1-5
+Add Pin To Net: Unknown Pin: Pin TMC1-6
+Add Pin To Net: Unknown Pin: Pin TMC1-7
+Add Pin To Net: Unknown Pin: Pin TMC1-8
+Add Pin To Net: Unknown Pin: Pin TMC1-9
+Add Pin To Net: Unknown Pin: Pin TMC1-10
+Add Pin To Net: Unknown Pin: Pin TMC1-11
+Add Pin To Net: Unknown Pin: Pin TMC1-12
+Add Pin To Net: Unknown Pin: Pin TMC1-13
+Add Pin To Net: Unknown Pin: Pin TMC1-14
+Add Pin To Net: Unknown Pin: Pin TMC1-16
+Add Pin To Net: Unknown Pin: Pin TMC1-18
+Add Pin To Net: Unknown Pin: Pin TMC1-20
+Add Pin To Net: Unknown Pin: Pin TMC1-PAD
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Class Member: Failed to add class member : Component C0 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C1 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C2 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C3 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C4 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C5 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C6 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C7 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C8 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C9 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C10 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C11 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C20 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C21 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component Cin Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component Cout Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component TMC1 U2
+Add Class Member: Failed to add class member : Component U7 USB

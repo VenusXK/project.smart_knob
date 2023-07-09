@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=Q0 Old Footprint=UNIC-TO-92-3 New Footprint=mmbt4403
+Change Component Library : Designator=Q0 Old Library=DigiPCBA Workspace New Library=MainBoard.IntLib
+Change Managed Component Library Link : Designator=Q0 Old VaultGUID= New VaultGUID= Old ItemGUID=16FB2AAC-BC13-4CA7-9E1A-5CEDF94B4479 New ItemGUID= Old RevisionGUID=8574B595-2E9F-42DE-958D-4D38757B5123 New RevisionGUID=
+Add Pin To Net: Unknown Pin: Pin TMC1-2
+Add Pin To Net: Unknown Pin: Pin TMC1-3
+Add Pin To Net: Unknown Pin: Pin TMC1-4
+Add Pin To Net: Unknown Pin: Pin TMC1-5
+Add Pin To Net: Unknown Pin: Pin TMC1-6
+Add Pin To Net: Unknown Pin: Pin TMC1-7
+Add Pin To Net: Unknown Pin: Pin TMC1-8
+Add Pin To Net: Unknown Pin: Pin TMC1-9
+Add Pin To Net: Unknown Pin: Pin TMC1-10
+Add Pin To Net: Unknown Pin: Pin TMC1-11
+Add Pin To Net: Unknown Pin: Pin TMC1-12
+Add Pin To Net: Unknown Pin: Pin TMC1-13
+Add Pin To Net: Unknown Pin: Pin TMC1-14
+Add Pin To Net: Unknown Pin: Pin TMC1-16
+Add Pin To Net: Unknown Pin: Pin TMC1-18
+Add Pin To Net: Unknown Pin: Pin TMC1-20
+Add Pin To Net: Unknown Pin: Pin TMC1-PAD
+Add Class Member: Failed to add class member : Component TMC1 U2

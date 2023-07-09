@@ -1,0 +1,27 @@
+Added Component: Designator=LINK2(LINK2)
+Add component (AddParameter): Name = "Design Item ID"; Value = "LINK2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Board.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=SP1(LINK2)
+Add component (AddParameter): Name = "Design Item ID"; Value = "StrainPiece1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Board.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=SP2(LINK2)
+Add component (AddParameter): Name = "Design Item ID"; Value = "StrainPiece2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Board.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=STRAIN_E+ Pin=SP1-1
+Added Pin To Net: NetName=STRAIN_S+ Pin=SP1-2
+Added Pin To Net: NetName=STRAIN_E- Pin=SP1-3
+Added Pin To Net: NetName=STRAIN_E+ Pin=SP2-1
+Added Pin To Net: NetName=STRAIN_S+ Pin=SP2-2
+Added Pin To Net: NetName=STRAIN_E- Pin=SP2-3
+Added Pin To Net: NetName=U Pin=LINK2-1
+Added Pin To Net: NetName=U Pin=U2-15
+Added Net: Name=U
+Added Pin To Net: NetName=V Pin=LINK2-2
+Added Pin To Net: NetName=V Pin=U2-17
+Added Net: Name=V
+Added Pin To Net: NetName=W Pin=LINK2-3
+Added Pin To Net: NetName=W Pin=U2-1
+Added Net: Name=W
+Added Member To Class: ClassName=Board Member=Component LINK2
+Added Member To Class: ClassName=Board Member=Component SP1 StrainPiece1
+Added Member To Class: ClassName=Board Member=Component SP2 StrainPiece2

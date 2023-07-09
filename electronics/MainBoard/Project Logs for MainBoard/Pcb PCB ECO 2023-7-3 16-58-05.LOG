@@ -1,0 +1,120 @@
+Change Component Footprint: Designator=LED8 Old Footprint=·â×°.SK6812SIDE-A New Footprint=FZ-SK6812SIDE-A
+Change Managed Component Library Link : Designator=LED8 Old VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 New VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 Old ItemGUID=EB3E8497-774F-41CC-AEDC-D549A064C93B New ItemGUID=47AC0BDB-811D-423C-AE53-A671DCADD93A Old RevisionGUID=55156633-628B-4D8D-8736-33D1327FB5E1 New RevisionGUID=EFDB742C-BFF2-4EF9-B002-8FD38AC9FE29
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Component: Footprint Not Found CAPC1005X56X25LL10T15
+Add Pin To Net: Unknown Pin: Pin C0-1
+Add Pin To Net: Unknown Pin: Pin C0-2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin Cin-1
+Add Pin To Net: Unknown Pin: Pin Cin-2
+Add Pin To Net: Unknown Pin: Pin Cout-1
+Add Pin To Net: Unknown Pin: Pin Cout-2
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED1-3
+Add Pin To Net: Unknown Pin: Pin LED1-4
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin LED2-3
+Add Pin To Net: Unknown Pin: Pin LED2-4
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin LED3-3
+Add Pin To Net: Unknown Pin: Pin LED3-4
+Add Pin To Net: Unknown Pin: Pin LED4-1
+Add Pin To Net: Unknown Pin: Pin LED4-2
+Add Pin To Net: Unknown Pin: Pin LED4-3
+Add Pin To Net: Unknown Pin: Pin LED4-4
+Add Pin To Net: Unknown Pin: Pin LED5-1
+Add Pin To Net: Unknown Pin: Pin LED5-2
+Add Pin To Net: Unknown Pin: Pin LED5-3
+Add Pin To Net: Unknown Pin: Pin LED5-4
+Add Pin To Net: Unknown Pin: Pin LED6-1
+Add Pin To Net: Unknown Pin: Pin LED6-2
+Add Pin To Net: Unknown Pin: Pin LED6-3
+Add Pin To Net: Unknown Pin: Pin LED6-4
+Add Pin To Net: Unknown Pin: Pin LED7-1
+Add Pin To Net: Unknown Pin: Pin LED7-2
+Add Pin To Net: Unknown Pin: Pin LED7-3
+Add Pin To Net: Unknown Pin: Pin LED7-4
+Added Pin To Net: NetName=NetLED7_3 Pin=LED8-1
+Added Pin To Net: NetName=+5 Pin=LED8-2
+Added Pin To Net: NetName=STRAIN_E- Pin=LED8-4
+Add Pin To Net: Unknown Pin: Pin TMC1-2
+Add Pin To Net: Unknown Pin: Pin TMC1-3
+Add Pin To Net: Unknown Pin: Pin TMC1-4
+Add Pin To Net: Unknown Pin: Pin TMC1-5
+Add Pin To Net: Unknown Pin: Pin TMC1-6
+Add Pin To Net: Unknown Pin: Pin TMC1-7
+Add Pin To Net: Unknown Pin: Pin TMC1-8
+Add Pin To Net: Unknown Pin: Pin TMC1-9
+Add Pin To Net: Unknown Pin: Pin TMC1-10
+Add Pin To Net: Unknown Pin: Pin TMC1-11
+Add Pin To Net: Unknown Pin: Pin TMC1-12
+Add Pin To Net: Unknown Pin: Pin TMC1-13
+Add Pin To Net: Unknown Pin: Pin TMC1-14
+Add Pin To Net: Unknown Pin: Pin TMC1-16
+Add Pin To Net: Unknown Pin: Pin TMC1-18
+Add Pin To Net: Unknown Pin: Pin TMC1-20
+Add Pin To Net: Unknown Pin: Pin TMC1-PAD
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Class Member: Failed to add class member : Component C0 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C1 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C2 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C3 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C4 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C5 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C6 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C7 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C8 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C9 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C10 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C11 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C20 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component C21 Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component Cin Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component Cout Capacitor 0.1 uF +/- 5% 16 V 0402
+Add Class Member: Failed to add class member : Component TMC1 U2
+Add Class Member: Failed to add class member : Component U7 USB

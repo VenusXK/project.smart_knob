@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=SCL Pin=U1-27
+Removed Pin From Net: NetName=SDA Pin=U1-28
+Removed Pin From Net: NetName=+3.3V Pin=U7-1
+Added Component: Designator=?(FZ-Switch)
+Add component (AddParameter): Name = "Design Item ID"; Value = "5.8^2-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "U?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "5.8 ZSPT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "IC.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "5.8 ZSPT"; VariantName = "[No Variations]"
+Added Component: Designator=C22(0805Ã˘∆¨µÁ»›)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C23(0805Ã˘∆¨µÁ»›)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(∑‚◊∞.TMC6300)
+Add component (AddParameter): Name = "Design Item ID"; Value = "TMC6300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "IC.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=X??(HC-49S_L11.4-W4.8)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Crystal Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20161217/1481939208787.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "9C12000002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "9C12000002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SMD HC-49S 12M 49SMD 20pF 20ppm 30R 0~70°Ê"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TXC(æßºº)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "9C12000002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "IC.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "HC-49S-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C90939"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "9C1202LCSC-DDK2S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=?-5
+Added Pin To Net: NetName=STRAIN_E- Pin=C22-1
+Added Pin To Net: NetName=STRAIN_E- Pin=C23-1
+Added Pin To Net: NetName=SDA Pin=U1-16
+Added Pin To Net: NetName=SCL Pin=U1-17
+Added Pin To Net: NetName=+5V Pin=U1-40
+Added Pin To Net: NetName=NetC1_2 Pin=U2-2
+Added Pin To Net: NetName=TMC_UH Pin=U2-3
+Added Pin To Net: NetName=TMC_VH Pin=U2-4
+Added Pin To Net: NetName=TMC_WH Pin=U2-5
+Added Pin To Net: NetName=TMC_UL Pin=U2-6
+Added Pin To Net: NetName=TMC_WL Pin=U2-7
+Added Pin To Net: NetName=STRAIN_E- Pin=U2-8
+Added Pin To Net: NetName=STRAIN_E- Pin=U2-9
+Added Pin To Net: NetName=TMC_VL Pin=U2-10
+Added Pin To Net: NetName=+5 Pin=U2-11
+Added Pin To Net: NetName=TMC_DIAG Pin=U2-12
+Added Pin To Net: NetName=NetC0_2 Pin=U2-13
+Added Pin To Net: NetName=STRAIN_E- Pin=U2-14
+Added Pin To Net: NetName=STRAIN_E- Pin=U2-16
+Added Pin To Net: NetName=+3.3V Pin=U2-18
+Added Pin To Net: NetName=STRAIN_E- Pin=U2-20
+Add Pin To Net: Unknown Pin: Pin U2-PAD
+Added Pin To Net: NetName=Net?_4 Pin=?-4
+Added Pin To Net: NetName=Net?_4 Pin=U7-1
+Added Net: Name=Net?_4
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=C23-2
+Added Pin To Net: NetName=NetC22_2 Pin=U1-18
+Added Pin To Net: NetName=NetC22_2 Pin=U1-19
+Added Pin To Net: NetName=NetC22_2 Pin=X??-1
+Added Pin To Net: NetName=NetC22_2 Pin=X??-2
+Added Net: Name=NetC22_2
+Added Member To Class: ClassName=Schematic Member=Component ? 5.8^2-Switch
+Added Member To Class: ClassName=Schematic Member=Component C22 Capacitor 0.1 uF +/- 5% 16 V 0402
+Added Member To Class: ClassName=Schematic Member=Component C23 Capacitor 0.1 uF +/- 5% 16 V 0402
+Added Member To Class: ClassName=Schematic Member=Component U2 TMC6300
+Added Member To Class: ClassName=Schematic Member=Component X?? 9C12000002

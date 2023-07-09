@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=U2 Old Footprint=·â×°.TMC6300 New Footprint=·â×°.TMC6300
+Change Component Comment : Designator=U2 Old Comment=TMC6300 New Comment=2TMC6300
+Change Managed Component Library Link : Designator=U2 Old VaultGUID= New VaultGUID=47F265E7-719F-4B17-94BD-0226BA035E24 Old ItemGUID= New ItemGUID=B8DB364C-D980-45DF-B4C8-5F3F92478F58 Old RevisionGUID= New RevisionGUID=BA53736D-3986-47CC-A123-13957B49C4D1
+Change component parameters: Designator = "U2" ("U2"); Footprint = "·â×°.TMC6300"; UniqueID = "\RHWADNLA" ("\RHWADNLA")
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "2TMC6300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "IC.SchLib"; VariantName = "[No Variations]"

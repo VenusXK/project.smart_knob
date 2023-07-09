@@ -11,7 +11,7 @@
 - 讲解视频：https://www.youtube.com/watch?v=Q76dMggUH1M&t=521s
 
 
-### 器材
+### 参考器材
 
 - [x] 240x240 round LCD ("GC9A01")
 - [x] 无感无刷电机 BLDC
@@ -28,6 +28,21 @@
 - [x] LED电流缓冲 SN74LV1T34DBV
 - [ ] 背板？Versatile back plate for mounting - use either 4x screws, or 2x 3M medium Command strips (with cutouts for accessing removal tabs after installation)
 - [ ] 前盖？Front cover snaps on for easy access to the PCB
+
+51项目耗材
+
+-电容
+  - [x] 100nf
+  - [x] 22uf
+  - [x] 4.7uf
+  - [x] 10uf
+  - [x] 20pf
+- 电阻
+  - [x] 10k
+  - [x] 2.2k
+  - [x] 330
+  - [x] 8.2k
+  - [x] 100
 
 ### 资料
 
